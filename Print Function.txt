@@ -1,2 +1,0 @@
-#if __name__ == '__main_
-print(*range(1, int(input())+1), sep='')
